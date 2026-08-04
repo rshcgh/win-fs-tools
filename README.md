@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="win fs tools" src="https://github.com/user-attachments/assets/0aa3b255-2542-4381-a0c1-20e35ec11df8" />
+
 # win fs tools
 
 native windows 10 or later (missing) file operations ported from posix
